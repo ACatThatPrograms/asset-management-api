@@ -5,7 +5,7 @@ With it's respective respotistory [here]()
 
 A (hopefully) live version of the API docs can be found [here](https://assetapi.acatthatprograms.com/api-docs)
 
-Additionally a (should be) live version of the UI can be found [here]()
+Additionally a (should be) live version of the UI can be found [here](https://cats-asset-management.netlify.app/)
 
 ## Quick Start
 
